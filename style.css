@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+p.Fizz {
+    color: #00ff0d;
+}
+
+p.Buzz {
+    color: #00ffff;
+}
+
+p.FizzBuzz {
+    color: #ea00ff;
+}
